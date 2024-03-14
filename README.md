@@ -82,16 +82,9 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 ```
-
 ## OUTPUT:
-![output](<Screenshot 2024-03-12 113151.png>) 
-![output](<Screenshot 2024-03-12 112847.png>)
-
-## RESULT:
-The program for implementing simple webserver is executed successfully.
-
-## OUTPUT:
-
+![web](https://github.com/Thamizhjo/simplewebserver/assets/123891476/26ae3d5a-7182-412b-aab8-de9ac4cf2f60)
+![web 1](https://github.com/Thamizhjo/simplewebserver/assets/123891476/a71a2840-42a6-4fe1-90b9-36464b1110e9)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
